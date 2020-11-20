@@ -1,1 +1,1 @@
-Temporary file. Put your weight files here.
+Temporary file. Put your weight files here. You can find backend weights here: https://drive.google.com/drive/folders/1PXsCb7nCpW8Vdi-M5znAXzJMiJy77vZj?usp=sharing
